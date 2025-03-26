@@ -4,7 +4,7 @@ export default defineConfig({
   base: 'cookingrecipie',
   plugins: [
     tailwindcss(),
-    react(),
+    // react(),
   ],
 })
 // import { defineConfig } from 'vite';
