@@ -1,7 +1,7 @@
 import { defineConfig } from 'vite'
 import tailwindcss from '@tailwindcss/vite'
 export default defineConfig({
-  base: 'cookingrecipie'
+  base: 'cookingrecipie',
   plugins: [
     tailwindcss(),
     react(),
